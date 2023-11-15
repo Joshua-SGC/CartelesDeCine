@@ -1,0 +1,52 @@
+body{
+    background: rgb(0, 0, 0);
+    color: #fff;
+}
+#hexa{
+    width: 50%;
+    font-size: 1.05rem;
+    background-color: #828201;
+    padding: 10px;
+    color: #fff;
+}
+#hsl{
+    width: 50%;
+    font-size: 1.05rem;
+    background-color: hsl(60, 98%, 26%);
+    padding: 10px;
+    color: hsl(0, 0%, 100%);
+}
+
+#rgb{
+    width: 50%;
+    font-size: 1.05rem;
+    background-color: rgb(131, 131, 1);
+    padding: 10px;
+    color: rgb(255, 255, 255);
+}
+h2{
+    font-size: 1.25rem;
+}
+
+h3{
+    font-size: 1.5rem;
+}
+h4{
+    font-size: 1.75rem;
+}
+h5{
+    font-size: 2rem;
+}
+h6{
+    font-size: 2.25rem;
+}
+
+#black{
+    width: 50%;
+}
+#alien{
+    width: 749px;
+}
+#avengers{
+    width: 46.8em;
+}
